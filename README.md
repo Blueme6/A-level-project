@@ -20,12 +20,12 @@ Or Damage Over Time effects
 
 Success criteria:
 
-Get a website working
-Get the game to run in the website
-Ensure the game runs as intended
-Attacks register, damage is correct, spells deal the correct effects,
-Turns aren't accidentally skipped
-The website can allow for mouse input such as clicking, instead of needing a number input from the user.
+- Get a website working
+- Get the game to run in the website
+- Ensure the game runs as intended
+- Attacks register, damage is correct, spells deal the correct effects,
+- Turns aren't accidentally skipped
+- The website can allow for mouse input such as clicking, instead of needing a number input from the user.
 
 
 Making the enemy choose randomly between their attacks as well as being able to choose your character, the difficulty you play on as well as the enemy you fight allows the user to have multiple ways of playing the game. Having it in a website allows for easy access and shouldn't need powerful software to be able to run it as it will be text based.
